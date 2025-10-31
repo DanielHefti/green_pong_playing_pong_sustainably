@@ -1,0 +1,6 @@
+gymnasium
+ale-py
+torch
+codecarbon
+opencv-python
+torchvision

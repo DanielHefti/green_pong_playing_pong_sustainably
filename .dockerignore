@@ -1,0 +1,22 @@
+.git
+.gitignore
+
+venv/
+.venv/
+env/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Dependências locais
+node_modules/
+
+fly.toml
